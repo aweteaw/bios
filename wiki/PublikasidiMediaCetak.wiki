@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels infolinux,publikasi,artikel-cetak
+#Pada bulan Mei dan Juni 2008 Infolinux menampilkan artikel tentang BiOS
 
 = Publikasi BiOS di Majalah INFOLINUX =
 
