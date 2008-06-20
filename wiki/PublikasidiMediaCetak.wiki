@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels infolinux,publikasi,artikel-cetak
+
+= Publikasi BiOS di Majalah INFOLINUX =
+
+*InfoLinux Mei 2008
+
+http://www.infolinux.web.id/site/images/cov0508.jpg
+
+* InfoLinux Juni 2008
+
+http://www.infolinux.web.id/site/images/cov0608.jpg
