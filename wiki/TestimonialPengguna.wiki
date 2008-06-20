@@ -1,0 +1,13 @@
+# Testimonial dari beberapa pengguna BiOS
+
+= Testimonial =
+
+|| *No.* || *Nama* || *Warnet* || *Kota* || *Distro* || *Testimonial* ||
+|| 1 || Haris Triyanto || Belum Ada || Tangerang || Slackware || Wah... keren banget Billingnya,akhirnya ga usah pake billing berbayar lagi, untuk usaha warnet.. ||
+|| 2 || Edi Santoso || BIAWAN-NET || Samarinda || Mandriva 2008, PCLINUXOS 2007 || User Friendly... jadi enak buanget di pakai dan setingnya udah disediain manual guidnya... than temen2 baliwae... good luck.. ||
+|| || || || || || ||
+
+
+===Kirim testimonialmu.. ===
+
+Email ke majalah.linux@gmail.com
