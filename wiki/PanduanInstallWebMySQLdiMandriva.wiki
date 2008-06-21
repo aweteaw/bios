@@ -1,4 +1,4 @@
 #labels Phase-Deploy
-#panduan install webserver dan mysql di mandriva 2008
+panduan install webserver dan mysql di mandriva 2008
 
 [http://www.howtoforge.com/lighttpd-php5-mysql-mandriva-2008.0 http://www.howtoforge.com/lighttpd-php5-mysql-mandriva-2008.0]
