@@ -1,0 +1,19 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Fitur Baru di versi 1.4 =
+
+    * Tampilan informasi halaman depan yang lebih rapi dan menarik
+    * Menu - menu dalam billing kini dibuat lebih simple, dengan tambahan icon yang menarik. Pada menu billing (untuk memantau penggunaan billing) terdapat 2 pilihan layout. Mode standard dan simple. Untuk warnet dengan banyak pc sebaiknya memilih mode simple. karena jumlah pc yg dapat dipantau dalam satu monitor menjadi lebih banyak
+    * Fitur baru untuk menampilkan billing atau mematikan seluruh pc client secara otomatis cukup dengan satu kali klik.
+    * Fitur tambahan produk. Dengan fitur billing tidak hanya menghitung jumlah sewa pemakaian internet saja, namun juga menghitung pembelian produk, semisal tambahan print, minuman, atau jajanan. Terdapat pelaporan stok barang juga.
+    * Penambahan setting timezone. Dengan fitur ini diharapkan permasalahan berkaitan dengan terdapatnya perbedaan antara jam server dan billing dapat dihilangkan. Bagi anda yang berada di wilayah Indonesia Timur misalnya cukup memilih zona waktu WIT, dst.
+    * Sistem pelaporan pendapatan kini lebih lengkap. Bagi administrator, dapat memantau pemasukan berdasarkan operator yang bertugas. Jadi operator mana yang pemasukannya paling besar dapat Anda ketahui dengan cepat.
+    * Pelaporan transaksi dapat ditampilkan langsung dalam satu halaman maupun dalam beberapa halaman. Termasuk urut dari atas kebawah atau sebaliknya.
+    * Improvisasi sekuriti pada sistem pelaporan.
+    * Pada menu client, kini terdapat tambahan inputan untuk mengeset nama user yang dipakai untuk login di komputer bersangkutan. Dengan demikian kini masing masing pc client bisa memiliki nama user login yang berbeda. Tida k seperti pada versi sebelumnya yang mewajibkan seluruh pc memiliki user login yang sama
+    * Pada sistem tarif kini mendukung multi tarif. Tidak hanya satu tarif saja seperti pada versi sebelumnya. Anda bisa membuat tarif pada jam jam tertentu berbeda dengan tarif pada jam lainnya. Termasuk biaya dan durasi minimal dapat anda atur dan buat berbeda antar tiap tiap jam. misal tarif pada jam siang dan subuh anda berbeda.
+    * Sistem tarif kini juga mendukung pembulatan ke pecahan terdekat. Dengan cara ini Anda tidak perlu khawatir lagi tidak punya kembalian / receh untuk pelanggan Anda :)
+    * Pada setting sekuriti terdapat tambahan untuk menampilkan atau menyembunyikan pesan error php.
+    * Beragam perbaikan dari bug yang ditemukan pada versi sebelumnya. Dan perbaikan sekuriti yang kini lebih baik. Hal ini guna meminimalisir client / operator berbuat curang :) Seperti misalnya apabila komputer sedang dipakai dan billing berjalan, maka otomatis operator tidak dapat mereboot atau mematikannya dari kasir. Sampai billing distop dan data pemakaian tercatat di database.
+    * Fitur menarik lainnya yang sudah didukung mulai versi sebelumnya: support hampir semua clent desktop linux, memiliki fitur screen capture untuk menangkap tampilan layar client, mendukung sistem shift operator otomatis, ukuran aplikasi server dan client keseluruhan kurang dari 500 kb, irit bandwith jaringan, dan pemilik dapat memantau warnetnya secara remote melalui internet bila server billing terhubung ke internet pula.
