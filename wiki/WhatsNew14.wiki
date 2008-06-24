@@ -1,4 +1,8 @@
 #labels Featured
+= Fitur Baru dan Perbaikan di versi 1.4B =
+
+*
+
 = Fitur Baru di versi 1.4 =
 
     * Tampilan informasi halaman depan yang lebih rapi dan menarik
