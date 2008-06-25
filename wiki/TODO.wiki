@@ -5,7 +5,7 @@
 
 Anda punya ide / masukkan untuk penyempurnaan di versi berikutnya? silahkan tambahkan melalui kolom komentar dibawah ini, atau sampaikan ke email majalah.linux@gmail.com atau Y!m: online_baliwae
 
-|| No. || Description || Target / Date || Result ||
+|| No. || Description || Target Version / Date || Result ||
 || 01 || Proyek i18n, sehingga aplikasi BiOS mudah diterjemahkan oleh para kontributor. Idenya dengan membuat template khusus memisahkan program dan konten bahasa didalamnya. || 1.5 atau 1.5B || Dalam proses ||
 || 02 || - || - || ||
 || 03 || - || - || - ||
