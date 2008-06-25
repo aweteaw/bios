@@ -1,0 +1,27 @@
+#summary One-sentence summary of this page.
+#labels Phase-Design,Phase-Implementation,Phase-Requirements
+
+= Alternatif Billing Client Dengan Gambas =
+
+Seperti diketahui pada komputer client, alias end user tampilan billing dijalankan dengan menggunakan browser firefox.
+
+Contohnya seperti gambar ini:
+
+http://lh3.ggpht.com/majalah.linux/SFwNf9s3DnI/AAAAAAAAABs/fBipG6S4BQw/screen-client-jalanin-bios-1.4.jpg?imgmax=512
+
+Pada billing client dengan firefox, yang mengakses file client.php didalamnya terdapat script javascript khusus. Yang akan membuat jendela browser firefox yang digunakan akan menghilangkan menu dsb. sehingga tampak sederhana seperti pada gambar diatas.
+
+Namun kelemahannya adalah jendela firefox / billing tersebut masih dapat diclose oleh client, meski tidak akan mengganggu jalannya program billing.
+
+Untuk itu dibuatlah alternatif pengganti firefox.
+
+Proyek ini masih tahap percobaan!
+
+Yakni dengan menggunakan Gambas 2. source code dapat didownload di: http://bios.googlecode.com/files/gambas-bios-client-KDE.tar.gz
+
+Berikut screenshotnya:
+
+http://lh4.ggpht.com/majalah.linux/SF5zo9y6BWI/AAAAAAAAACE/BFCtr0kib00/biosgambas.jpg?imgmax=576
+
+
+tampak tombol close, max dan min windows tidak ada. begitu juga ditaskbar tidak tampak. Dengan cara ini billing akan selalu tampil di layar. Meski demikian program ini masih perlu banyak pengembangan. Karena aplikasi masih dapat dikill. Selain itu juga hanya bisa berjalan di lingkungan KDE. Hal ini karena salah satunya adalah komponen lib KDE.
