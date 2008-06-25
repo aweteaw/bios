@@ -1,7 +1,16 @@
 #labels Featured
 = Fitur Baru dan Perbaikan di versi 1.4B =
 
-*
+* Perbaikan [http://code.google.com/p/bios/issues/detail?id=3 critical bug perhitungan billing seperti tertera disini]
+* Penambahan client non internet pada menu billing. Jadi apabila ada client tidak bermain internet namun misal hanya ngeprint saja, data pe mbeliannya tetap dapat dimasukkan dalam billing, termasuk dicetakkan printout notanya
+* Menu laporan kini dapat menggenerate laporan untuk penjualan yang non internet, misal print, makan minum, dsb. 
+* Pewarnaan pada data laporan
+* Summary pada menu billing kini telah AJAX. sehingga dapat update otomatis seiring perpindahan zona tarif.
+* Tampilan billing lebih dipercantik, dengan penggunaan icon2
+* Pada menu client, khususnya di bagian pilihan deskto (KDE, Gnome, atau Windows) kini dihilangkan. Diganti dengan pilihan distro desktop yang dipakai. Tersedia mulai slackware, ubuntu, suse, dst. Apabila distro linux Anda tidak terdaftar, pilih saja linux_general. Untuk pengguna client windows, pilih windows. Anda juga dapat menambahkan daftar distro yg tertera disitu, dengan cara membuat icon logo distro dan beri nama seperti icon2 yang terdapat pada direktori /img/client/
+* Pada menu setting, ditambahkan pilihan untuk mengaktifkan atau mematikan fungsi screenshot.
+* Menu registrasi online, kini setiap pengguna yang mengisi form registrasi ini, otomatis akan diajak untuk bergabung dalam newsletter BiOS yang beralamat di GoogleGroups.
+
 
 = Fitur Baru di versi 1.4 =
 
