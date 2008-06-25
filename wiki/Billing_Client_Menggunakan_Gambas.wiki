@@ -24,4 +24,4 @@ Berikut screenshotnya:
 http://lh4.ggpht.com/majalah.linux/SF5zo9y6BWI/AAAAAAAAACE/BFCtr0kib00/biosgambas.jpg?imgmax=576
 
 
-tampak tombol close, max dan min windows tidak ada. begitu juga ditaskbar tidak tampak. Dengan cara ini billing akan selalu tampil di layar. Meski demikian program ini masih perlu banyak pengembangan. Karena aplikasi masih dapat dikill. Selain itu juga hanya bisa berjalan di lingkungan KDE. Hal ini karena salah satunya adalah komponen lib KDE.
+tampak tombol close, max dan min windows tidak ada. begitu juga ditaskbar tidak tampak. Dengan cara ini billing akan selalu tampil di layar. Meski demikian program ini masih perlu banyak pengembangan. Karena aplikasi masih dapat dikill. Selain itu juga hanya bisa berjalan di lingkungan KDE. Hal ini karena salah satu komponen pada gambas yang dipakai adalah komponen lib KDE (konqueror).
