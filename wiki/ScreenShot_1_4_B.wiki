@@ -1,0 +1,95 @@
+#screenshot billing
+
+= Versi 1.4 B =
+
+*Layar Login Operator*
+
+http://bios.baliwae.com/screenshot/1.4B/01.jpg
+
+---
+
+*Welcome Screen*
+
+http://bios.baliwae.com/screenshot/1.4B/02.jpg
+
+---
+
+*Menu Billing Operator*
+
+http://bios.baliwae.com/screenshot/1.4B/03.jpg
+
+---
+
+*Menu Laporan Pendapatan, dengan user administrator*
+
+http://bios.baliwae.com/screenshot/1.4B/04.jpg
+
+---
+
+*Tambah produk / not internet*
+
+http://bios.baliwae.com/screenshot/1.4B/05.jpg
+
+---
+
+*Nota siap cetak*
+
+http://bios.baliwae.com/screenshot/1.4B/06.jpg
+
+---
+
+*Menu Client, untuk menambah pc client. Tampak beragam distro linux disupport..*
+
+http://bios.baliwae.com/screenshot/1.4B/07.jpg
+
+---
+
+*Pilihan detail pada laporan pendapatan untuk level user administrator*
+
+http://bios.baliwae.com/screenshot/1.4B/08.jpg
+
+---
+
+*Menu Operator, untuk menambah atau menghapus daftar karyawan operator*
+
+http://bios.baliwae.com/screenshot/1.4B/09.jpg
+
+---
+
+*Menu Produk*
+
+http://bios.baliwae.com/screenshot/1.4B/10.jpg
+
+---
+
+*Menu Setting*
+
+http://bios.baliwae.com/screenshot/1.4B/11.jpg
+
+---
+
+*Setting tarif, mendukung multi tarif, durasi dan tarif minimal, dsb*
+
+http://bios.baliwae.com/screenshot/1.4B/12.jpg
+
+---
+
+*Menu registrasi, agar selalu ter-update informasi terbaru billing via email..*
+
+http://bios.baliwae.com/screenshot/1.4B/13.jpg
+
+---
+
+*Menu Operator, dilihat dari level operator/karyawan biasa. Tampak yang bisa diakses hanya menu billing dan laporan saja..*
+
+http://bios.baliwae.com/screenshot/1.4B/14.jpg
+
+---
+
+*Menu laporan pendapatan, dari level operator/karyawan biasa. Hanya dapat melihat laporannya sendiri*
+
+http://bios.baliwae.com/screenshot/1.4B/15.jpg
+
+---
+
+---
