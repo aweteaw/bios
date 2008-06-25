@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary alternatif billing client pengganti fungsi firefox (only for KDE at this time)
 #labels Phase-Design,Phase-Implementation,Phase-Requirements
 
 = Alternatif Billing Client Dengan Gambas =
