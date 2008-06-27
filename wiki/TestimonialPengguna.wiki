@@ -16,20 +16,15 @@
 || 10 || Hendra Permana Saputra || Warnet Linux Tuxedoe || Madiun || Ubuntu, Kubuntu || Top Banget... ||
 || 11 || hendra || Azzura || Kualasimpang || - || sangat bagus sekali  ||
 || 12 || Hari Yuwono || Warnet Fun.net || Kediri || Windows XP Home Edition OEM || linux itu open source software yang cool abisss dan terlebih lagi sistem sekuritinya bener2 secure dan bios sangat ringan tanpa membebani proses. ||
-|| 13 || Fauzi Himawan || Warnet Linux Tuxedoe || Madiun || Ubuntu, Kubuntu || Installasi di server dan client yang tidak sulit dan support untuk problem setting, online dari developernya langsung, buat billing ini mantaabb...Trim's
- ||
+|| 13 || Fauzi Himawan || Warnet Linux Tuxedoe || Madiun || Ubuntu, Kubuntu || Installasi di server dan client yang tidak sulit dan support untuk problem setting, online dari developernya langsung, buat billing ini mantaabb...Trim's ||
 || 14 || wonxbrebes || Mutiara || Brebes || Zencafe || hebat..........hebat....... ||
-|| 15 || stevi || Sparks || Manado || Ubuntu ||  bagus.. tapi semoga versi update nya selalu konstan waktunya.
- ||
-|| 16 || Gun Gun Gunawan || Warnet Linux ICT || Cianjur || ZenCafe || mantep abis ... fiturnya di tambah ya ..
- ||
+|| 15 || stevi || Sparks || Manado || Ubuntu ||  bagus.. tapi semoga versi update nya selalu konstan waktunya.  ||
+|| 16 || Gun Gun Gunawan || Warnet Linux ICT || Cianjur || ZenCafe || mantep abis ... fiturnya di tambah ya ..  ||
 || 17 || ahmad zainul ihsan arif || TAMIM COMPUTER || TUBAN || UBUNTU GUTSY || AWESOME ||
 || 18 || Andri Wiratmono || andrina NET || Kediri || Zencafe 1.2 || bagus buat alternatif biling linux ||
-|| 19 || Alan || Banua Mandiri || Kalimantan Tengah || Ubuntu 7.10, Suse 10.3, Linux Mint 4, Mandriva 2008 || Billing BIOS baliwae sangat bagus, saya saat ini sedang mencoba fitur2nya, billing ini kami gunakan bukan untuk warnet tetapi lebih untuk lembaga pendidikan kami agar bisa memantau masa penggunaan internet oleh masing-masing siswa didik kami. Terima kasih baliwae atas kesediannya untuk bebas mendownload billing ini, sekali lagi terima kasih banyak, semoga billing ini bisa semakin canggih. Bravo
- ||
+|| 19 || Alan || Banua Mandiri || Kalimantan Tengah || Ubuntu 7.10, Suse 10.3, Linux Mint 4, Mandriva 2008 || Billing BIOS baliwae sangat bagus, saya saat ini sedang mencoba fitur2nya, billing ini kami gunakan bukan untuk warnet tetapi lebih untuk lembaga pendidikan kami agar bisa memantau masa penggunaan internet oleh masing-masing siswa didik kami. Terima kasih baliwae atas kesediannya untuk bebas mendownload billing ini, sekali lagi terima kasih banyak, semoga billing ini bisa semakin canggih. Bravo  ||
 || 20 || Widodo Atmojo || Warnet Triple-eF Net || Purwakarta || Suse Linux || Nice ||
-|| 21 || ewyn || The Penguin Internet Cafe || Jl. Raya Mangga Dua Ternate, Maluku Utara ||  Linux Mint || Sebenarnya dikomputer warnet kami, kami lakuin dual boot antara Linux Mint ama Windows. Sumpah BIOS Baliwae bener2 sangat cocok dengan kami. Tapi sangat menyenangka jika ditambahkan fitur pembeda antara member ama non-member warnet. Di Ternate kami satu2nya warnet yang Make BIOS Baliwae... Thanx berat Mas Budi
- ||
+|| 21 || ewyn || The Penguin Internet Cafe || Jl. Raya Mangga Dua Ternate, Maluku Utara ||  Linux Mint || Sebenarnya dikomputer warnet kami, kami lakuin dual boot antara Linux Mint ama Windows. Sumpah BIOS Baliwae bener2 sangat cocok dengan kami. Tapi sangat menyenangka jika ditambahkan fitur pembeda antara member ama non-member warnet. Di Ternate kami satu2nya warnet yang Make BIOS Baliwae... Thanx berat Mas Budi  ||
 || 22 || Dwi Wahyudi || Yudhistira Komputama || Jl. Sragen - Solo, Masaran, Sragen  || Server : Open Suse 10.3, Clietn : Mandriva/Ubuntu/Windows || Linux adalah OPEN Source dan sangat cocok untuk usaha warnet yang benar2 menggunakan legal OS. Kami ingin berganti OS seperti di atas. Setelah mencoba BiOS, kami sangat tertarik untuk menggunakan BiOS. ||
 || 23 || iwa || Q-BACK || karawang || PCLINUX3DOS || BRAVO LINUX, BRAVO BALIWAE, BRAVO BiOS ||
 || 24 || Encep Satiyakrama R || KLIK .NET || Tasikmalaya Jawa Barat || Debian, PC LOS, Ubuntu || Thanx's buat pengembang BIOS baliwae.....\\r\\nTerus berkarya demi kemajuan IT indonesia. ||
