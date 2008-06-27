@@ -1,5 +1,5 @@
 #labels Featured
-# summary Testimonial dari beberapa pengguna BiOS
+#Summary Testimonial dari beberapa pengguna BiOS
 
 = Testimonial =
 
@@ -27,7 +27,7 @@
 || 21 || ewyn || The Penguin Internet Cafe || Jl. Raya Mangga Dua Ternate, Maluku Utara ||  Linux Mint || Sebenarnya dikomputer warnet kami, kami lakuin dual boot antara Linux Mint ama Windows. Sumpah BIOS Baliwae bener2 sangat cocok dengan kami. Tapi sangat menyenangka jika ditambahkan fitur pembeda antara member ama non-member warnet. Di Ternate kami satu2nya warnet yang Make BIOS Baliwae... Thanx berat Mas Budi  ||
 || 22 || Dwi Wahyudi || Yudhistira Komputama || Jl. Sragen - Solo, Masaran, Sragen  || Server : Open Suse 10.3, Clietn : Mandriva/Ubuntu/Windows || Linux adalah OPEN Source dan sangat cocok untuk usaha warnet yang benar2 menggunakan legal OS. Kami ingin berganti OS seperti di atas. Setelah mencoba BiOS, kami sangat tertarik untuk menggunakan BiOS. ||
 || 23 || iwa || Q-BACK || karawang || PCLINUX3DOS || BRAVO LINUX, BRAVO BALIWAE, BRAVO BiOS ||
-|| 24 || Encep Satiyakrama R || KLIK .NET || Tasikmalaya Jawa Barat || Debian, PC LOS, Ubuntu || Thanx's buat pengembang BIOS baliwae.....\\r\\nTerus berkarya demi kemajuan IT indonesia. ||
+|| 24 || Encep Satiyakrama R || KLIK .NET || Tasikmalaya Jawa Barat || Debian, PC LOS, Ubuntu || Thanx's buat pengembang BIOS baliwae.....Terus berkarya demi kemajuan IT indonesia. ||
 || || || || || ||  ||
 
 ===Kirim testimonialmu.. ===
