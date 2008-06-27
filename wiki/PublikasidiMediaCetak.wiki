@@ -1,4 +1,4 @@
-#labels infolinux,publikasi,artikel-cetak
+#labels featured,publikasi,artikel-cetak
 #Pada bulan Mei dan Juni 2008 Infolinux menampilkan artikel tentang BiOS
 
 = Publikasi BiOS di Majalah INFOLINUX =
