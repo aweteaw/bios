@@ -1,12 +1,17 @@
-# Testimonial dari beberapa pengguna BiOS
+#labels Featured
+# summary Testimonial dari beberapa pengguna BiOS
 
 = Testimonial =
 
 || *No.* || *Nama* || *Warnet* || *Kota* || *Distro* || *Testimonial* ||
 || 1 || Haris Triyanto || Belum Ada || Tangerang || Slackware || Wah... keren banget Billingnya,akhirnya ga usah pake billing berbayar lagi, untuk usaha warnet.. ||
 || 2 || Edi Santoso || BIAWAN-NET || Samarinda || Mandriva 2008, PCLINUXOS 2007 || User Friendly... jadi enak buanget di pakai dan setingnya udah disediain manual guidnya... than temen2 baliwae... good luck.. ||
-|| || || || || || ||
-
+|| 3 || Arief Budi Suryanto || Warnet Linux Kalibernet || Tanjungpinang || Linux Mint, Ubuntu, Mandriva, SAM Linux || Simple, Powerfull dan Gartis tentunya. Trims berat... ||
+|| 4 || Gatot Wijanarko || Warnet Faraz || Kediri || Opensuse10.3 || Secara umum linux sangat menyenangkan, mengelola warnet dengan OS linux memerlukan kesabaran cukup extra agar pengguna bisa menerima dengan baik. BIOS sangat membantu di warnet saya, meskipun saya belum bisa mengaktifkan fungsi show, reboot & poweroff serta sanapshot screen, karena terus terang saya masih pemula di dunia linux. sebagai tambahan, saya baru membuka warnet pada tanggal 8 Mei 08, dan sudah menemukan beberapa billing linux, tetapi BIOS adalah yang paling mudah dan menyenangkan. terimakasih BIOS ||
+|| 5 || Zakky Mubarok || Multimedia Center || Kendal || Ubuntu Gutsy, Ubuntu Hardy || Saya baru dua bulan kenalan ama ubuntu, tp langsung jatuh cinta setengah mati, semuanya lebih menarik dan menantang jiwa berpetualang saya.....gerti bios dari beberapa forum, sebelumnya nyoba billing yang laen, tp nginstalnya ribet....Setelah ketemu bios yang gampang nginstalnya dan gampang sistem pentarifannya sepertinya saya g kan pindah kelaen hati.....  ||
+|| 6 || rinovan || Warnet Rinovan || Jl. Raya Ngadiluwih no.12 Kediri || ubuntu || murah tapi belum familiar. saya minta update terbaru untuk warnet multi seat. Trims ||
+||  ||  ||  ||  ||  ||  ||
+||  ||  ||  ||  ||  ||  ||
 
 ===Kirim testimonialmu.. ===
 
