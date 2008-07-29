@@ -1,7 +1,7 @@
 #labels Featured
 = Fitur Baru dan Perbaikan di versi 1.4B SP1 =
 
-  * Perbaikan critical bug perhitungan billing, saat proses perpindahan zona waktu pada beberapa kasus
+  * Perbaikan critical bug perhitungan billing, saat proses perpindahan zona waktu, pada beberapa kasus perhitungan tagihan ditemukan tidak sesuai dengan yang seharusnya.
   * Perbaikan bug berkaitan security pada pembatasan hak akses ip. kini lebih strict. sebelumnya ip 192.168.1.1 dan 192.168.1.100 dianggap sama. Kini tidak lagi.
   * Pada file konfigurasi bios-config.php kini terdapat tambahan variabel $billing_debug_mode dan $show_second. $billing_debug_mode apabila diset menjadi 1, digunakan untuk mengubah mode billing dari normal ke mode debug. Di mode ini setiap hasil perhitungan pemakaian billing (durasi dan biaya) akan ditampilkan secara detail mulai dari durasi waktu mulai start sampai selesai / saat ini, termasuk biaya tiap-tiap perpindahan zona waktu. Mode ini sangat berguna bagi yang ingin mengetahui detail perhitungan billing, seperti developer dsb. Termasuk juga untuk mengecek dan memastikan bahwa perhitungan BiOS sudah benar :) Sementara pada $show_second, set menjadi 1 bila anda ingin menampilkan durasi pemakaian hingga detik, atau set 0 untuk menyembunyikan detik pada tampilan operator.
 
