@@ -1,0 +1,137 @@
+#summary Panduan Singkat Instalasi BiOS versi 1.4B SP1
+#labels Featured,Phase-Deploy
+
+cat: Dokumen ini masih belum selesai, dan perlu dirapikan
+
+= Instalasi =
+
+1. Instalasi Server php, apache dan mysql
+Download xampp di
+http://sourceforge.net/project/showfiles.php?group_id=61776
+Pilih yang XAMPP Linux.
+
+Download BiOS 1.4B SP1 di
+http://bios.googlecode.com/files/BiOS-v1.4BSP1.tar.bz2
+
+2. buka console
+$ sudo su
+<password root>
+
+3. extract xampp
+
+`# tar zxvf xampp-linux-1.6.7.tar.gz -C /opt/`
+
+extract BiOS
+# tar jxvf BiOS-v1.4B.tar.bz2 -C /opt/lampp/htdocs/
+
+
+4. Set setting securit / password xampp (db mysql)
+
+# cd /opt/lampp
+# ./lampp security
+
+XAMPP: Quick security check...
+
+XAMPP: Your XAMPP pages are NOT secured by a password.
+
+XAMPP: Do you want to set a password? [yes] no
+
+XAMPP: Password protection active. Please use 'lampp' as user name!
+
+XAMPP: MySQL is accessable http://192.168.1.100:80/opt/lampp/htdocs/billing/';via network.
+XAMPP: Normaly that's not recommended. Do you want me to turn it off? [yes] yes
+
+XAMPP: Turned off.
+
+XAMPP: Stopping MySQL...
+
+XAMPP: Starting MySQL...
+
+XAMPP: The MySQL/phpMyAdmin user pma has no password set!!!
+
+XAMPP: Do you want to set a password? [yes] yes
+
+XAMPP: Password: 
+
+XAMPP: Password (again): 
+
+XAMPP: Setting new MySQL pmhttp://192.168.1.100:80/opt/lampp/htdocs/billing/';a password.
+XAMPP: Setting phpMyAdmin's pma password to the new one.
+
+XAMPP: MySQL has no root passwort set!!!
+
+XAMPP: Do you want to set a password? [yes] yes
+
+XAMPP: Write the password somewhere down to make sure you won't forget it!!!
+
+XAMPP: Password: http://192.168.1.100:80/opt/lampp/htdocs/billing/';
+
+XAMPP: Password (again): 
+
+XAMPP: Setting new MySQL root password.
+
+XAMPP: Change phpMyAdmin's authentication method.
+
+XAMPP: The FTP password is http://192.168.1.100:80/opt/lampp/htdocs/billing/';still set to 'lampp'.
+
+XAMPP: Do you want to change the password? [yes] yes
+
+XAMPP: Password: 
+
+XAMPP: Password (again): 
+
+XAMPP: Reload ProFTPD...
+
+XAMPP: Done.
+
+
+5. jalankan server xampp
+# ./lampp start
+
+6. buka browser / firefox: http://localhost/phpmyadmin/
+masukkan user dan password yang sebelumnya telah diset
+Create new database : --> isi bios
+bila berhasil nanti di kolom kiri akan muncul nama database baru yg tadi kita buat (bios)
+silahkan di klik
+pilih import
+browse ke /opt/lampp/htdocs/billing/bios.sql, klik Go
+
+bila berhasil akan muncul tulisan:
+"Import has been successfully finished, 24 queries executed."
+
+7. di console sebelumnya, pindah ke direktori tempat billing
+# cd htdocs/billing/
+
+8. Edit file bios-config.php
+# gedit bios-config.php 
+
+$mysql_user='root';
+$mysql_pass='123';
+$mysql_dbname='bios';
+
+$url_location='http://192.168.0.10/billing/';
+
+ubah ip 192.168.0.10 diatas, dengan ip komputer tempat install.
+
+9. dari browser buka:
+http://192.168.0.10/billing/operator.php
+
+seharusnya akan muncul tampilan user dan password login.
+user: admin
+pass: tes123
+
+10. Setup fitur remote. Silahkan cek apakah distribusi linux anda sudah menyertakan paket ssh server dan client dalam instalasinya. Kebanyakan distro besar seperti mandriva, fedora, opensuse sudah menyertakan secara default. Untuk ubuntu hanya terinstall default ssh client saja. silahkan install dulu paket ssh lainnya dari reponya
+caranya ketik di console
+$ sudo apt-get install openssh
+
+atau bila Anda memiliki dvd repo 8.04 bisa dilihat di DVD 1:
+openssh-client_4.7p1-8ubuntu1_i386.deb
+openssh-server_4.7p1-8ubuntu1_i386.deb
+ssh_4.7p1-8ubuntu1_all.deb
+ssh-askpass-gnome_4.7p1-8ubuntu1_i386.deb
+
+install keempatnya manual dengan perintah:
+# dpkg -i *.deb
+
+
+(belum selesai)
