@@ -1,0 +1,36 @@
+#summary Frequently Ask Questions, Pertanyaan yang Sering ditanyakan
+#labels Featured,Phase-Support
+
+_nb. bila Anda tidak menemukan jawaban dari pertanyaan Anda, silahkan kirim pertanyaan anda ke majalah.linux@gmail.com._
+
+
+*Q :* Saya sudah download dan mengikuti petunjuk instalasi seperti tertera pada "MANUAL-BIOS-1.3.pdf   	Panduan Instalasi BiOS 1.3x", tapi client tetap saja tidak bisa saya reboot, poweroff, dan logout setelah klik tombol selesai. Bagaimana cara mengatasinya?
+
+*A :* 
+UNTUK YANG SUDAH MELAKUKAN LANGKAH LANGKAH SEPERTI DI TUTORIAL INSTALASI,
+TAPI BELUM JUGA BISA MEREBOOT, MELOGOUT, POWEROFF CLIENT DARI OPERATOR,
+atau client mengklik tombol selesai di billing namun layarnya tidak mau logout:
+solusinya saat langkah visudo, pastikan baris dibawah ini ada:
+
+{{{apache ALL=(ALL) NOPASSWD: ALL}}}
+
+perhatikan opsi *NOPASSWD*! jangan ketinggalan!
+
+jangan lupa ubah apache sesuai dengan nama user yang menjalankan webserver
+/ httpd anda. Kalau di keluarga ubuntu defaultnya pakai `www-data`.
+
+maka ubah menjadi
+
+{{{www-data ALL=(ALL) NOPASSWD: ALL}}}
+
+kalau yang webservernya pakai xampp default user yg menjalankan apache
+adalah `nobody`. maka ubah menjadi:
+
+{{{nobody ALL=(ALL) NOPASSWD: ALL}}}
+
+untuk memeriksa user yg menjalankan webserver dapat dilihat dengan
+menjalankan perintah
+
+{{{ps -aux | grep httpd}}}
+
+----
