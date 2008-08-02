@@ -3,7 +3,7 @@
 
 cat: Dokumen ini masih belum selesai, dan perlu dirapikan
 
-= Instalasi =
+= Instalasi, dicontohkan menggunakan server dan client Ubuntu 8.04 =
 
 1. Instalasi Server php, apache dan mysql
 Download xampp di
