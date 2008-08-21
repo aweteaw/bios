@@ -134,4 +134,5 @@ install keempatnya manual dengan perintah:
 # dpkg -i *.deb
 
 
-(belum selesai)
+langkah selanjutnya lihat
+http://bios.googlecode.com/files/MANUAL-BIOS-1.3.pdf
