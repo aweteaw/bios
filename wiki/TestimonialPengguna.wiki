@@ -33,6 +33,7 @@
 || 27 || Dwi Anggara A || Warnet Plus || Jl. Ahmad Yani Ruko Stadian Brawijaya C5 Kediri ||  Zencafe || billing yang oke dan ringan trims atas pembuatan billing bios ||
 || 28 || Khairul Amri || tRiNiTy wArNeTz || Jl. Bojong Raya No.2C Rawa Buaya Cengkareng ||  Ubuntu 8.04 || agak sulit tapi menantang ||
 || 29 || Wahyu || Quantum Mediatama (bukan warnet) || Jl. Damar Tritih Kulon Cilacap Utara ||  Ubuntu || programnya bagus..bisa kasih updetan terbaru. tengkyu banget ||
+|| 30 || Habibi || Giganet || Jl. pandaan Bangil sampig Pomp Bensin Kuti Pandaan ||  Ubuntu, PClinux OS, Zencafe 1.4 || lumayan oke tapi perlu dibuatkan exekusi billing client yang tidak bisa diclose oleh orang awam --> solusi: di client pakai opera pak. (lihat wiki) ||
 
 ===Kirim testimonialmu.. ===
 
