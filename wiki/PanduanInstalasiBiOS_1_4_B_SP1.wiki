@@ -136,3 +136,8 @@ install keempatnya manual dengan perintah:
 
 langkah selanjutnya lihat
 http://bios.googlecode.com/files/MANUAL-BIOS-1.3.pdf
+
+Troubleshooting:
+Tidak bisa melakukan reboot, poweroff, atau logout client secara otomatis dari billing di client maupun dari operator
+
+http://code.google.com/p/bios/issues/detail?id=1&can=1
