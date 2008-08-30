@@ -33,7 +33,11 @@
 || 27 || Dwi Anggara A || Warnet Plus || Jl. Ahmad Yani Ruko Stadian Brawijaya C5 Kediri ||  Zencafe || billing yang oke dan ringan trims atas pembuatan billing bios ||
 || 28 || Khairul Amri || tRiNiTy wArNeTz || Jl. Bojong Raya No.2C Rawa Buaya Cengkareng ||  Ubuntu 8.04 || agak sulit tapi menantang ||
 || 29 || Wahyu || Quantum Mediatama (bukan warnet) || Jl. Damar Tritih Kulon Cilacap Utara ||  Ubuntu || programnya bagus..bisa kasih updetan terbaru. tengkyu banget ||
-|| 30 || Habibi || Giganet || Jl. pandaan Bangil sampig Pomp Bensin Kuti Pandaan ||  Ubuntu, PClinux OS, Zencafe 1.4 || lumayan oke tapi perlu dibuatkan exekusi billing client yang tidak bisa diclose oleh orang awam --> solusi: di client pakai opera pak. (lihat wiki) ||
+|| 30 || Habibi || Giganet || Jl. pandaan Bangil sampig Pomp Bensin Kuti Pandaan ||  Ubuntu, PClinux OS, Zencafe 1.4 || lumayan oke tapi perlu dibuatkan exekusi billing client yang tidak bisa diclose oleh orang awam --> (Redaksi) solusi: di client pakai opera. (lihat wiki) ||
+|| 31 || Marwanto Wijanarko || BIMA.NET || Jl. Ganesha II Purwosari Kudus ||  Windows (server), opensus11 (Client),Windows (client),Blankon3.0 (client) || mak nyus ||
+|| 32 || Hartono Jalal Suyuti || Warnet BKM || Komplek Nusantara Golden, Batam || Fedora 8 || Thanks ya atas effortnya di dunia open source.. ||
+|| 33|| Mahadi Hendro Wiyono || Warnet Linux || Jl. Ki Mangunsarkoro No. 2, Batang || Suse 10.0, Ubuntu 7.10, Zencafe 1.2 || Semoga billing ini bukan sekedar basa-basi dari pembuatnya untuk mengkomersialkan billing ini --> (Redaksi) sudah terbukti kan bukan basi basi? bukan Omdo.  Sudah banyak warnet linux menggunakannya tanpa membayar sepeserpun. ||
+
 
 ===Kirim testimonialmu.. ===
 
