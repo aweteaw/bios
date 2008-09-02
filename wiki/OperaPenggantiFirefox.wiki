@@ -1,4 +1,5 @@
 #summary Tips jitu untuk mengatasi solusi pengganti firefox di client, agar billing ga bisa diclose oleh client
+#labels Featured
 
 Untuk mengerti artikel ini, anda wajib sebelumnya telah berhasil menginstall BiOS terlebih dahulu atau minimal telah mencobanya :D
 
