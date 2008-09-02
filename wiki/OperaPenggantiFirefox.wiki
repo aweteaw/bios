@@ -1,0 +1,50 @@
+#summary Tips jitu untuk mengatasi solusi pengganti firefox di client, agar billing ga bisa diclose oleh client
+
+Untuk mengerti artikel ini, anda wajib sebelumnya telah berhasil menginstall BiOS terlebih dahulu atau minimal telah mencobanya :D
+
+----
+
+Kelemahan dari firefox bila dipakai untuk manggil dan nampilin client.php di komputer client, yakni si client bisa ngeclose firefoxnya (klik tombol x di pojok kanan),
+meski ini tidak membahayakan proses penghitungan billing, karena billing tetap jalan di server / operator. Di client hanya sebatas untuk nampilin biaya dan durasi waktu saja.
+
+Untuk solusinya yakni dengan membuat shorctut di desktop client, jadi
+user tetap bisa membuka kembali tampilan billing client bila seandainya pernah mengclose baik sengaja maupun tidak. 
+
+Atau petugas warnet bisa juga meremote dari menu operator di sisi operator agar menampilkan biliing di client. (fungsi ini ada di pilihan halaman operator program BiOS)
+
+Solusi lain di client bisa dibuat aplikasi dengan menggunakan gambas, sehingga ga bisa diclose dengan menggunakan gambas + qtwebkit
+
+contoh source program gambasnya bisa dilihat di :
+http://bios.googlecode.com/files/gambas-bios-client-KDE.tar.gz
+
+tapi sebenarnya ada cara yang lebih mudah, tidak ribet, tidak perlu bikin program, alias MAKNYUS tentunya untuk mengatasi kelemahan ini :D
+
+yakni di client fungsi firefox diganti dengan opera. ya, karena di opera ada fitur khusus untuk warnet/kiosk shorcut firefox diganti dengan perintah ini:
+
+{{{
+opera -noexit -nochangefullscreen -nomenu -nominmaxbuttons -resetonexit -nokeys  nocontextmenu -noprint -nosave -nosysmenu -nohotlist -e -geometry 400x250 http://ip_server/client.php
+}}}
+
+
+keterangan:
+
+-noexit = browser ga bisa diclose dengan mengklik tombol [x]
+-nochangefullscreen = tampil dalam ukuran biasa, tidak fullscreen
+-nominmaxbuttons = sembunyikan tombol min dan max di pojok kanan. tapi
+di kde ini ga ada efek. no problem
+-resetonexit = jangan simpan ke setting opera
+-nokeys = matikan fungsi keyboard seperti alt+f4, dsb
+-nocontextmenu = matikan fungsi klik kanan
+-noprint = ga bisa print
+-nosave = ga bisa di save as
+-nosysmenu = sembunyikan menu opera
+-nohotlist = sembunyikan daftar bookmark/hotlist
+-geometry = set ukuran panjang dan lebar, ukuran 400x250 pas dengan
+tampilan BiOs
+
+untuk menyembunyikan url location cukup atur di menu Tools / Appearance / Toolbars / Address Bar dan Tab Bar,di menu opera. Jangan lupa progress baru di set Off
+
+
+
+
+:)
