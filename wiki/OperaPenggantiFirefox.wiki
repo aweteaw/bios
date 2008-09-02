@@ -19,15 +19,18 @@ http://bios.googlecode.com/files/gambas-bios-client-KDE.tar.gz
 
 tapi sebenarnya ada cara yang lebih mudah, tidak ribet, tidak perlu bikin program, alias MAKNYUS tentunya untuk mengatasi kelemahan ini :D
 
-yakni di client fungsi firefox diganti dengan opera. ya, karena di opera ada fitur khusus untuk warnet/kiosk shorcut firefox diganti dengan perintah ini:
+yakni di client fungsi firefox diganti dengan opera. ya, karena di opera ada fitur khusus untuk warnet/kiosk shorcut firefox diganti dengan perintah ini (buat dalam satu baris):
 
 {{{
-opera -noexit -nochangefullscreen -nomenu -nominmaxbuttons -resetonexit -nokeys  nocontextmenu -noprint -nosave -nosysmenu -nohotlist -e -geometry 400x250 http://ip_server/client.php
+opera -noexit -nochangefullscreen -nomenu -nominmaxbuttons -resetonexit -nokeys 
+-nocontextmenu -noprint -nosave -nosysmenu -nohotlist -e -geometry 400x250 
+http://ip_server/client.php
 }}}
 
 
 keterangan:
 
+{{{
 -noexit = browser ga bisa diclose dengan mengklik tombol [x]
 -nochangefullscreen = tampil dalam ukuran biasa, tidak fullscreen
 -nominmaxbuttons = sembunyikan tombol min dan max di pojok kanan. tapi
@@ -41,8 +44,13 @@ di kde ini ga ada efek. no problem
 -nohotlist = sembunyikan daftar bookmark/hotlist
 -geometry = set ukuran panjang dan lebar, ukuran 400x250 pas dengan
 tampilan BiOs
+}}}
 
-untuk menyembunyikan url location cukup atur di menu Tools / Appearance / Toolbars / Address Bar dan Tab Bar,di menu opera. Jangan lupa progress baru di set Off
+untuk menyembunyikan url location cukup atur di menu Tools / Appearance / Toolbars / Address Bar dan Tab Bar,di menu opera. Jangan lupa progress baru di set Off.
+
+tampilan client dengan menggunakan opera:
+
+http://lh4.ggpht.com/majalah.linux/SLzGhpYFOVI/AAAAAAAAAEM/4hh562vwj7o/contoh-bios-opera.jpg
 
 
 
