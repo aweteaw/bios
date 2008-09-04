@@ -29,4 +29,7 @@ menjalankan perintah
 
 {{{ps -aux | grep httpd}}}
 
+*Apabila anda menggunakan BiOS versi 1.4x pastikan juga bahwa username yang tertera di menu client pada halaman operator adalah username yang dipakai untuk login di komputer linux client. * (lihat gambar)
+
+http://lh4.ggpht.com/majalah.linux/SL9t17whdyI/AAAAAAAAAEs/daEifrMO9Jw/bios-client-faq.jpg
 ----
