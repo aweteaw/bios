@@ -37,6 +37,7 @@
 || 31 || Marwanto Wijanarko || BIMA.NET || Jl. Ganesha II Purwosari Kudus ||  Windows (server), opensus11 (Client),Windows (client),Blankon3.0 (client) || mak nyus ||
 || 32 || Hartono Jalal Suyuti || Warnet BKM || Komplek Nusantara Golden, Batam || Fedora 8 || Thanks ya atas effortnya di dunia open source.. ||
 || 33|| Mahadi Hendro Wiyono || Warnet Linux || Jl. Ki Mangunsarkoro No. 2, Batang || Suse 10.0, Ubuntu 7.10, Zencafe 1.2 || Semoga billing ini bukan sekedar basa-basi dari pembuatnya untuk mengkomersialkan billing ini --> (Redaksi) sudah terbukti kan bukan basi basi? bukan Omdo.  Sudah banyak warnet linux menggunakannya tanpa membayar sepeserpun. ||
+|| 34|| Suandi || Warnet LINUX NFS|| Jl. panggarangan buntu no.21, Jakarta Timur || ubuntu 8.04, fedora 9 dan opensuse 11 || dengan adanya linux dan khusunya bios ini saya sangat berterima kasih sehingga saya dapat mengunakan software yang serba gratis dan halal.  bios ini bagus sekali bagi orang2 yng ingin buka usaha kususnya yg modal kecil ||
 
 
 ===Kirim testimonialmu.. ===
