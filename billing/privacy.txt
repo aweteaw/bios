@@ -1,0 +1,13 @@
+Salah satu fitur dalam BiOS adalah fasilitas screenshot.
+Fitur ini dapat digunakan untuk menangkap tampilan layar pada komputer
+client. Disamping keuntungan positif, kemungkinan penggunaan fitur ini 
+juga dapat mengganggu privacy dari client. Harap agar hal ini diperhatikan. 
+Bila tidak diperlukan sebaiknya fitur screenshot tidak Anda aktifkan.
+
+Untuk mengaktifkan / menonaktifkan dapat diatur di bagian menu operator:
+setting > screenshot.
+(login sebagai admin!)
+
+PENGEMBANG TIDAK BERTANGGUNG JAWAB TERHADAP SEGALA KEMUNGKINAN ADANYA
+PELANGGARAN PRIVACY AKIBAT DARI PENGGUNAKAN FITUR SCREENSHOT INI.
+
