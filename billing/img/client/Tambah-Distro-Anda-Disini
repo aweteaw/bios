@@ -1,0 +1,14 @@
+Distro Anda tidak tercantum disini?
+silahkan simpan file logo distro Anda dalam format png, dengan ukuran maksimal 32x32 pixel, transparent.
+
+beri nama dengan format:
+client_distro_NAMA_DISTRONYA.png
+
+contoh: 
+client_distro_mandriva.png
+
+Nantinya pilihan distro ini dapat Anda lihat di menu operator
+(login sebagai admin!)
+setting > client
+
+Selamat mencoba!
