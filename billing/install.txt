@@ -1,0 +1,8 @@
+BiOS Baliwae - Billing Linux Open Source Baliwae
+versi 1.4 B - SP1
+rilis 25 Juni 2008
+update SP 1 - 24 Juli 2008
+
+petunjuk instalasi lengkap silahkan lihat di
+http://bios.googlecode.com
+
