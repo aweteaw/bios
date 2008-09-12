@@ -8,9 +8,10 @@ Anda punya ide / masukkan untuk penyempurnaan di versi berikutnya? silahkan tamb
 || No. || Description || Target Version-Date || Result ||
 || 01 || Proyek i18n, sehingga aplikasi BiOS mudah diterjemahkan oleh para kontributor. Idenya dengan membuat template khusus memisahkan program dan konten bahasa didalamnya. || 1.5 atau 1.5B || 30% ||
 || 02 || Penambahan Fitur Remote Login. Maksudnya dari operator bisa langsung menstart sekaligus meloginkan komputer client, tanpa perlu client memasukkan user password lagi. || 1.5 atau 1.5B || 0% ||
-|| 03 || Paket jam. Misal ambil paket main 2 jam, 3 jam, dst ada diskon khusus. Termasuk juga penambahan fitur member. || 1.5B || 0% ||
-|| 04 || [http://code.google.com/p/bios/issues/detail?id=5 bulk add client] || 1.5 || 0% ||
-|| 05 || Dukungan terhadap sistem prabayar/ Voucher || 1.5 || 0% ||
-|| 06 || Pantauan jumlah pemakai pada title. Contoh: [ 5 dari 20 user online ] || 1.5 || 0% ||
-|| 07 || Rekap laporan harian dalam rentang waktu tertentu, dan rekap jumlah pengunjung harian berdasarkan transaksi yang terjadi || 1.5 || 0% ||
-|| 08 || Fitur chat operator dan client || 1.5 || 0% ||
+|| 03 || Sistem Paket jam. Misal ambil paket main 2 jam, 3 jam, dst ada diskon khusus.  || 1.5 || 0% ||
+|| 04 || Sistem Prabayar/ Voucher || 1.5 || 0% ||
+|| 05 || Sistem Member || 1.5 || 0% ||
+|| 06 || [http://code.google.com/p/bios/issues/detail?id=5 bulk add client] || 1.5 || 0% ||
+|| 07 || Pantauan jumlah pemakai pada title. Contoh: [ 5 dari 20 user online ] || 1.5 || 0% ||
+|| 08 || Rekap laporan harian dalam rentang waktu tertentu, dan rekap jumlah pengunjung harian berdasarkan transaksi yang terjadi || 1.5 || 0% ||
+|| 09 || Fitur chat operator dan client || 1.5 || 0% ||
