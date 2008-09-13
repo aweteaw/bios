@@ -1,6 +1,8 @@
 #summary alternatif billing client pengganti fungsi firefox (only for KDE at this time)
 #labels Phase-Design,Phase-Implementation,Phase-Requirements
 
+Silahkan lihat OperaPenggantiFirefox untuk solusi termudah selain gambas..
+
 = Alternatif Billing Client Dengan Gambas =
 
 Seperti diketahui pada komputer client, alias end user tampilan billing dijalankan dengan menggunakan browser firefox.
