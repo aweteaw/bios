@@ -15,3 +15,4 @@ Anda punya ide / masukkan untuk penyempurnaan di versi berikutnya? silahkan tamb
 || 07 || Pantauan jumlah pemakai pada title. Contoh: [ 5 dari 20 user online ] || 1.5 || 0% ||
 || 08 || Rekap laporan harian dalam rentang waktu tertentu, dan rekap jumlah pengunjung harian berdasarkan transaksi yang terjadi || 1.5 || 0% ||
 || 09 || Fitur chat operator dan client || 1.5 || 0% ||
+|| 10 || Support DHCP || 1.5 || 10% ||
