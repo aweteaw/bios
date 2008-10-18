@@ -43,6 +43,7 @@
 || 37|| Niko Suyatman ||  Lestari Net || Jl.Melati IV No.43, Cijantung, Jakarta Timur || Ubuntu 8.4 ||  Good ||
 || 38|| Hartadi ||  Media Computer || Jl. Dr Wahidin Sudiro Husodo 75 Tuban|| Ubuntu ||  Sampai detik ini belum ada software billing sebagus BiOS ||
 || 39|| Agung Nugroho ||  Sastronet || Fakultas Ilmu Budaya UGM|| Ubuntu Feisty || Kalo di lihat dari kebutuhan warnet, billing ini sudah mencukupi seluruh kebutuhan yang ada. ||
+|| 40|| Cecep ||  Warnet Linux Putra Tunggal || Jl Pajajaran Cisaat Sukabumi||  Ubuntu, Suse, Dewa Linux || Maju terus Open Source ||
 
 
 ===Kirim testimonialmu.. ===
