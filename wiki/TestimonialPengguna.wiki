@@ -45,6 +45,7 @@
 || 39|| Agung Nugroho ||  Sastronet || Fakultas Ilmu Budaya UGM|| Ubuntu Feisty || Kalo di lihat dari kebutuhan warnet, billing ini sudah mencukupi seluruh kebutuhan yang ada. ||
 || 40|| Cecep ||  Warnet Linux Putra Tunggal || Jl Pajajaran Cisaat Sukabumi||  Ubuntu, Suse, Dewa Linux || Maju terus Open Source ||
 || 41|| Budhoyo ||  Warnet Setyaelcomp || Jl. RA. Kartini 56, Trenggalek ||  Ubuntu 8.04 || Untuk linux bagiku is the best,karena hoby custom meng custom ku tersalurkan, tuk bios tuk pengembangan ada baiknya bug waktu client di stop billing tak error lagi, cari cara sederhana untuk instalasi seperti open office yang pakek java so very simple way or paketnya disatukan sekalian dengan program pendukungnya, hanya urun rembug, jelasnya BiOS is good billing, mudah mudahan tuk selanjutnya lebih menggigit lagi. makasih ||
+|| 42|| Cecep ||  Warnet Tirta Cisadane || Jl. Raya Serpong No 1 & 2, Tangerang || Fedora 9 ||  Sangat Menarik Perpaduan Linux dan BiOS ||
 
 
 ===Kirim testimonialmu.. ===
