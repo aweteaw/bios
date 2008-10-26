@@ -1,8 +1,14 @@
 #summary daftar warnet/personal yang telah memberikan donasi untuk pengembangan BiOS
+#labels Featured
 
 = Donatur =
 
-Sampai saat ini belum ada
+http://bios.baliwae.com/img/bios-patron.gif
+
+Terima kasih sebesar-besarnya diucapkan kepada pihak yang tertera dibawah ini atas sumbangannya kepada pengembangan BiOS dalam bentuk donasi dana ..
+
+|| No. || Tanggal || Nama || Warnet || Lokasi || Jumlah Donasi ||
+|| 001 || Oktober 26, 2008 || Syafiudin || IndahNyo.net - Studio Internet Open Source || Jl. Pelda Saibi 1/40 Prabumulih - Sumatera Selatan || Rp. 100,000 ||
 
 = Anda berminat? =
 
