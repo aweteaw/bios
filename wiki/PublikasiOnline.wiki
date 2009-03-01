@@ -1,0 +1,13 @@
+#summary daftar website/url yang membahas tentang BiOS
+#labels Phase-Support,Phase-Deploy
+
+= Publikasi Online =
+
+Berikut ini adalah daftar website/url yang membahas tentang bios. Apabila ada yang terlewati mohon kiranya dapat di email ke majalah.linux@gmail.com agar dapat ditambahkan di halaman ini. Terima kasih atas bantuannya..
+
+
+Tutorial:
+
+[http://blog.rusyaid.net/2009/02/memasang-bios-di-warnet-blankon-1.html 
+Memasang BiOS di warnet BlankOn (1)]
+[http://blog.rusyaid.net/2009/02/memasang-bios-di-warnet-blankon-2.html Memasang BiOS di warnet BlankOn (2)]
