@@ -55,7 +55,14 @@
 || 49|| Taufik Anapiscan ||  Warnet Kos-kosan || Jl. Sekeloa Utara 2, Bandung ||  Ubuntu Intrepid Ibex || linux membuat saya mengerti arti kebebasan, memberikan manfaat tentang betapa pentingnya arti dari sebuah open source, linux yang merubah hidupku menjadi jiwa-jiwa idealis..BiOS, produk dalam negeri yang dikembangkan hampir mendekati sempurna, bagi orang awam, tampilan BiOS udah bikin user tertarik, tutorial yang dikasih juga sangat-sangat membantu untuk memakai produk tersebut. ||
 || 50|| Adit Arie Tama ||  Warnet Cahaya || kedungbulu, pandansari, ajibarang - Banyumas ||  ubuntu 8.10 || saya adit. 19 tahun. memilih enggak kuliah cuman pingin menekuni IT otodidak. linux ubuntu keren banget.kayaknya sih simpel, tapi ternyata (weleh),.. lumayan ribet juga.tapi lumayan lah.cukup terbantu sama mbah google. banyaks manual2 yg sangat membantu.thanks buat om yang bikin bios. awesome!! ||
 || 51|| Taruna Wadi ||  Humania.net || Padang ||  Ubuntu || Linux bagus karena free,baru dapat info tentang BiOS dari internet dan tertarik sekali untuk mencoba. ||
-
+|| 52|| M.Noor ||  eserzEt || Jl. Pahlawan Kompleks Dua Puluh Lima, Balangan - Kalimantan Selatan ||  OpenSUSE & Dewalinux Rencong || ngga nyangka ternyata hebat euy !!!! ||
+|| 53|| Slamet Sutrisno ||  Agsanet || Jl. Brigjen. Sutiyoso No. 7, Metro - Lampung ||  -  || OK ||
+|| 54|| Madi ||  Simpel Net || Jl. A.Yani Purca, Puruk Cahu ||  Ubuntu ||  Ok dech sip sekali ||
+|| 55|| Indra ||  CORE-NET || Cisarua, Bandung ||  Ubuntu, Xubuntu || The Best lah ||
+|| 56|| Keces ||  FA Mandiri || Jl. Kasturi, Aceh ||  Windows XP - SP2 ||  wow kereeeeeen.....cool men....! ||
+|| 57|| Muhidin ||  Warbelsera || Gd. Plasa-TI Lt. Dasar Ruang Student Center, SMA Plus PGRI Cibinong - Bogor ||  Ubuntu, Blankon || BiOS -- Luar biasa, program yang sangat powerfull ini dilepas beserta source codenya. Thanks mas Budi - semoga semakin jaya dan semakin mantap ||
+|| 58|| Ridwan ||  Gaza Net || Jl. Qadr Raya No. 6, Tangerang||  SuSE, Ubuntu || bios sangat membantu, Go Open Source Indonesia !! ||
+|| 59|| Hari Subagio ||  EVO.net || Jl. Raya Domas 253 Menganti Gresik ||  Ubuntu (Server), Windows XP (client) || keberadaan linux di dunia IT benar-benar sangat membantu masyarakat dalam hal legalitas dan pembalajaran dalam perkembangan IT, untuk BIOS, kami mengucapkan banyak-banyak terimakasih bagi teman-teman yang mengembangkan BIOS, semoga BIOS dapat disempurnakan lagi.  ||
 ===Kirim testimonialmu.. ===
 
 Email ke majalah.linux@gmail.com
