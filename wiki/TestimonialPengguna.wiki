@@ -49,6 +49,12 @@
 || 43|| Ade Fitriadi ||  Warnet HIdayah || Jl. Penancangan no. 1, Serang, Banten ||  Vector Linux Soho 5.8 || Linux solusi untuk pemberdayaan IT di tanah air, dan BiOS mempermudah pengelola warnet untuk pindah ke linux sehingga bisa menjadi ujung tombak pengenalan linux ke masyarakat luas. Hidup Linux dan maju terus BiOS billing warnet ||
 || 44|| Yanuar Candra Cahyono ||  NewVo Net. || Jl. Mastrip. No. 8, Pasuruan || Ubuntu || Sangat istimewa ||
 || 45|| P. Matondang ||  Delta.Net || JL. Mayor Ruslan III, Pasar Lama Lahat, Sumatera Selatan ||  Ubuntu dan Mandriva || Bagus ||
+|| 46|| Ludi Hidayat ||  Bandiklatda || Jl. Windu 26, Bandung ||  RedHat || Bagus ||
+|| 47| Eka Riana ||  Warnet PRINET || Jl. Sayuti No. 28 Parungpanjang Bogor ||  IGOS Dwi Warna || GILA ABIS DEH !, LUAR BIASA GAK SEPERTI WAKTU BELAJAR WINDOWS, APALAGI WAKTU KONFIGURASI BIOS, DAPAT MASALAH, PADAHAL MASALAHNYA CUMA SALAH PASSWORDNYA AJA yang harusnya ditulis tes123, malah test123, akhirnya datang juga pertolongan dari online_baliwae yang udah saya tunggu selama 2 hari, Insya Allah ane bakal ikutin ngembangin BIOS ya paling melaporkan bugnya aja, soalnya itu yang ane baru bisa. Terima Kasih (salam kreativitas tanpa batas ||
+|| 48|| Muchamad Andi Sofiyan ||  Warnet SMK Islamiyah Ciawi || Jl. Pesantren Kiara Kuda Ciawi ||  Tasikmalaya || Linux Oke, dan Bios Praktis ||
+|| 49|| Taufik Anapiscan ||  Warnet Kos-kosan || Jl. Sekeloa Utara 2, Bandung ||  Ubuntu Intrepid Ibex || linux membuat saya mengerti arti kebebasan, memberikan manfaat tentang betapa pentingnya arti dari sebuah open source, linux yang merubah hidupku menjadi jiwa-jiwa idealis..BiOS, produk dalam negeri yang dikembangkan hampir mendekati sempurna, bagi orang awam, tampilan BiOS udah bikin user tertarik, tutorial yang dikasih juga sangat-sangat membantu untuk memakai produk tersebut. ||
+|| 50|| Adit Arie Tama ||  Warnet Cahaya || kedungbulu, pandansari, ajibarang - Banyumas ||  ubuntu 8.10 || saya adit. 19 tahun. memilih enggak kuliah cuman pingin menekuni IT otodidak. linux ubuntu keren banget.kayaknya sih simpel, tapi ternyata (weleh),.. lumayan ribet juga.tapi lumayan lah.cukup terbantu sama mbah google. banyaks manual2 yg sangat membantu.thanks buat om yang bikin bios. awesome!! ||
+|| 51|| Taruna Wadi ||  Humania.net || Padang ||  Ubuntu || Linux bagus karena free,baru dapat info tentang BiOS dari internet dan tertarik sekali untuk mencoba. ||
 
 ===Kirim testimonialmu.. ===
 
