@@ -63,6 +63,9 @@
 || 57|| Muhidin ||  Warbelsera || Gd. Plasa-TI Lt. Dasar Ruang Student Center, SMA Plus PGRI Cibinong - Bogor ||  Ubuntu, Blankon || BiOS -- Luar biasa, program yang sangat powerfull ini dilepas beserta source codenya. Thanks mas Budi - semoga semakin jaya dan semakin mantap ||
 || 58|| Ridwan ||  Gaza Net || Jl. Qadr Raya No. 6, Tangerang||  SuSE, Ubuntu || bios sangat membantu, Go Open Source Indonesia !! ||
 || 59|| Hari Subagio ||  EVO.net || Jl. Raya Domas 253 Menganti Gresik ||  Ubuntu (Server), Windows XP (client) || keberadaan linux di dunia IT benar-benar sangat membantu masyarakat dalam hal legalitas dan pembalajaran dalam perkembangan IT, untuk BIOS, kami mengucapkan banyak-banyak terimakasih bagi teman-teman yang mengembangkan BIOS, semoga BIOS dapat disempurnakan lagi.  ||
+|| 60|| Bambang Ardianto ||  KambangIwak.NET ||  Jl. Palembang Inderalaya KM 32 Depan Bank Sumsel,  Inderalaya, Ogan Ilir||   Ubuntu 8.04 LTS Hardy Heron|| Kita masih newbie abis soal Linux, instalasi Lampp dan Bios dibantu sama temen-temen dari Ubuntu Sumsel (K Zain) dan temen-temen dari FT Elektro Unsri Inderalaya. Bios, asli terobosan bangsa Indonesia nih dalam dunia Open Source. ||
+
+
 ===Kirim testimonialmu.. ===
 
 Email ke majalah.linux@gmail.com
