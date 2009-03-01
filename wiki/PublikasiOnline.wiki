@@ -1,5 +1,5 @@
 #summary daftar website/url yang membahas tentang BiOS
-#labels Phase-Support,Phase-Deploy
+#labels Phase-Support,Phase-Deploy,Featured
 
 = Publikasi Online =
 
