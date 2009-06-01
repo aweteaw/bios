@@ -74,7 +74,11 @@
 || 68|| Arie ||   Aminet Internet Cafe  || Jl.Gn.Tangkuban Perahu 777, Denpasar ||  Ubuntu - Hardy Heron || Wokeh lah gitu !!!. ||
 || 69|| Muhammad Dede ||  STARNET || Jl. Cemerlang Tegal Padul SukaBumi || Ubuntu || free yg gak dpt di beli oleh  os tetangga :) semoga Bios terus UP TO DATE thks ||
 || 70|| muh.jalal ||  KHIBRAH-NET || Pondok Asri II F3/6 Jl. Poros Asrama Haji Sudiang Makassar || pclinux,zencafe,dreamlinux || ok cukup bagus ||
-
+|| 71||  Abdurahman Mukid ||  Warnet RAHAYU|| Jl. Moh. Hatta - Kupang ||  Suse 11.0|| Baru Coba2 ||
+|| 72||  andrialta ||  Cyber Caffee||  Jln Singaraja 3 Masohi - Maluku || Ubuntu 8.10|| Bios Luar biasa moohon update terbarunya||
+|| 73||  Morris || Smile Net|| Jl. Uria Mapas no.14. buntok, Kalteng || Zencafe 1.4|| ingin mencobanya ||
+|| 74||  Johan Perdana || Wiji||  Jl. Raya Jatisari - Karawang 41374 || Linus Mint Versi 6, (Mint 4 XFCE, Mint 6 XFCE, lainnya)|| akhirnya bisa di install juga. wuih, sempet bingung,thanks for u work, keep moving on ||
+|| 75||  Adhiz Pradana ||Gen Cyber Cafe||  Jl. Lamajang II No. 81 05/07 Ds.Citeureup Dayeuhkolot Bandung || PCLINUXOS 2009 || bagus banget, billing yang radically simple seperti slogan OS Linux yang saya pakai. Terima kasih...Go Open Source Indonesia!!!!! ||
 ===Kirim testimonialmu.. ===
 
 Email ke majalah.linux@gmail.com
