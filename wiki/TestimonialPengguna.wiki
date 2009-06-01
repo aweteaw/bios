@@ -79,6 +79,15 @@
 || 73||  Morris || Smile Net|| Jl. Uria Mapas no.14. buntok, Kalteng || Zencafe 1.4|| ingin mencobanya ||
 || 74||  Johan Perdana || Wiji||  Jl. Raya Jatisari - Karawang 41374 || Linus Mint Versi 6, (Mint 4 XFCE, Mint 6 XFCE, lainnya)|| akhirnya bisa di install juga. wuih, sempet bingung,thanks for u work, keep moving on ||
 || 75||  Adhiz Pradana ||Gen Cyber Cafe||  Jl. Lamajang II No. 81 05/07 Ds.Citeureup Dayeuhkolot Bandung || PCLINUXOS 2009 || bagus banget, billing yang radically simple seperti slogan OS Linux yang saya pakai. Terima kasih...Go Open Source Indonesia!!!!! ||
+|| 76|| Joko Widagdo ||Warnet Gretha||  Perumnas Pakunden Blok D4 No.6, Blitar || -- || 
+Thanks! ||
+|| 77|| Sakti Anugrah ||Giganet|| Ruko WadungAsri Permai B-12, Surabaya|| Ubuntu || 
+Sangat mengesankan ||
+|| 78|| Ahmad Fauzi ||Warnet Linux ICT Center Kabupaten Karawang|| Jl. Pangkal Perjuangan (By Pass) Karawang 41316|| openSUSE, Ubuntu 8.10 || BiOS merupakan sebuah OSS yang memang sangat berguna bagi para pengguna warnet khususnya bersistem operasi Linux ||
+|| 79||Suparno ||Cyber Net|| Jl. Dr. Cipto 77 a Bojonegoro|| Ubuntu|| Bagus ||
+|| 80||Muh. Jalal ||KHIBRAH-NET||Pondok Asri II F3/6 Jl. Poros Asrama Haji Sudiang Makassar||pclinux,zencafe,dreamlinux || ok cukup bagus ||
+|| 81||Abu Rifki ||QNet||Citeureup||PCOSLINUX 2007 || Meski baru di dunia linux, namun saya optimis akan mudah dalam pengoperasiannya, dan saya berharap dukungan dari seluruh rekan-rekan yang lebih dulu migrasi ke linux dapat saling membantu ||
+
 ===Kirim testimonialmu.. ===
 
 Email ke majalah.linux@gmail.com
