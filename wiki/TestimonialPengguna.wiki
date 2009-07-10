@@ -92,6 +92,8 @@ Sangat mengesankan ||
 || 84|| Pandiyono ||SMK WAHAS||Jl. Raya No 32 Parengan Maduran Lamongan ||ubuntu || okee, terimakasih banyak ||
 || 85|| Eka Riana ||PRINNET||Jl. Raya Sayuti no. 28 Parungpanjang Bogor ||Igos Dwi Warna, BlankOn, Ubuntu Muslim Edition || Gila abis, pertama kali install dan konfigurasi BIOS di server gagal, dan terus mengalami kegagalan, selang beberapa jam yaa kurang lebih 7 jam, saya coba hub. kak utuhkulali dan kak mahdycyber, saya langsung terperancang ketika dibilang passwordnya ga pake t jadi cuma tes123, Ternyata bukan Billing BIOSnya yang bermasalah, kecerobohan dan ketidak kelitian saya aja yang bikin masalah. Ok banget Kak Budi... teruskan pengembangan, insya Allah saya siap dukung. ||
 || 85|| Taufik ||Warnet Kos-kosan||Jl. Sekeloa Utara 2, Bandung||Ubuntu Intrepid Ibex || linux membuat saya mengerti arti kebebasan, memberikan manfaat tentang betapa pentingnya arti dari sebuah open source, linux yang merubah hidupku menjadi jiwa-jiwa idealis..BiOS, produk dalam negeri yang dikembangkan hampir mendekati sempurna, bagi orang awam, tampilan BiOS udah bikin user tertarik, tutorial yang dikasih juga sangat-sangat membantu untuk memakai produk tersebut. ||
+|| 86|| Gamuza ||Warnet MPVISION.net||Jl. kolonel masturi no.9, Bandung||Ubuntu || linux OS masa depan semua IT...BIOS adalah the best billing linux i've ever had ||
+
 ===Kirim testimonialmu.. ===
 
 Email ke majalah.linux@gmail.com
